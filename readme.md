@@ -113,7 +113,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jenner T.K. Higgins - [@twitter_handle](https://twitter.com/twitter_handle) - JennerTK@iCloud.com
+Jenner T.K. Higgins - JennerTK@iCloud.com
 
 Project Link: [https://github.com/Tora12/ePortfolio](https://github.com/Tora12/ePortfolio)
 
