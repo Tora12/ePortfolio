@@ -1,6 +1,42 @@
 * {
     border: 2px;
 }
+
+nav {
+    border-bottom: 2px solid black;
+}
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block;
+}
+
+.crumb a::after {
+    display: inline-block;
+    color: black;
+    content: none;
+    font-size: large;
+    font-weight: bold;
+    padding: 0 3px;
+}
+
 body {
     background-color: moccasin;
+}
+
+hr {
+    display: block;
+    color: black;
+    background-color: black;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 0px;
+    height: 1px;
 }
